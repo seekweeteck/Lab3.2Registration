@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 3.2 Registration</string>
+    <string name="name">Name</string>
+    <string name="dob">Date of birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="smoker">Smoker</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="premium">Premium :</string>
+</resources>
